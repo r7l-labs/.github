@@ -1,4 +1,4 @@
-Here’s a README draft for your organization **R7L Labs** on GitHub. You can adjust any sections (mission, values, tooling, etc.) to better reflect your team’s c# R7L Labs
+# R7L Labs
 
 *Developing for WARJORN / INTERIM*
 
