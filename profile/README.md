@@ -67,5 +67,3 @@ Thank you for dropping by R7L Labs — we’re excited to build great tools toge
 *Last updated: ‎`October 24, 2025`*
 
 ---
-
-If you like, I can format this for you with badges (license, build status, Python versions), include a logo image, or split it into sections per repository. Would you like me to generate that?
