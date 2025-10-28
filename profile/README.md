@@ -55,7 +55,7 @@ Here are some of our highlighted repositories:
 ## 📬 Stay in touch
 
 * Use GitHub Issues and Discussions in each repository for feedback, feature requests, and bug reports.
-* Want to reach out directly? Feel free to email `labs@r7l.org` (or update with your preferred contact info)
+* Want to reach out directly? Feel free to email `contact@r7l.org` (or update with your preferred contact info)
 * Follow updates by watching our organization or subscribing to repo notifications.
 
 ---
